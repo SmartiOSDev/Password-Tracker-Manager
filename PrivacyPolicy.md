@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Harshad Jadav built the Password Tracker & Manager app as a free app. This SERVICE is provided by Harshad Jadav at free cost and is intended for use as is.
+Harshad Jadav built the Password Tracker & Manager app as a paid app. This SERVICE is provided by Harshad Jadav at some cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
