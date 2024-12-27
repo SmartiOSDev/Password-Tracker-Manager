@@ -8,6 +8,9 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Password Tracker & Manager unless otherwise defined in this Privacy Policy.
 
+**Subscription and Ads Policy**
+
+The Password Tracker & Manager app offers an optional subscription plan to enhance your user experience by removing advertisements. To disable ads within the app, you can purchase a one-year subscription. This subscription is valid for one year from the date of purchase. Please note that ads will continue to be displayed unless a subscription is purchased.
 
 **Data**
 
