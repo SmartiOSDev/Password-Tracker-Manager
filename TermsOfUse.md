@@ -1,4 +1,4 @@
-- Title of auto-renewing subscription: Remove Ads
+- Title of auto-renewing subscription: Premium Ad-Free - Annual
 - Length of subscription: 1 year
 - Price of subscription: $0.99
 - No commitment, cancel anytime
